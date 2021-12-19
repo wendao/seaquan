@@ -85,7 +85,7 @@ install.packages("MALDIquant-1.18.tar.gz", repos = NULL, type="source")
 
 ## CIMAGE的安装
 
-直接从GITHUB（https://github.com/wangchulab/CIMAGE2）克隆或下载即可，需要在环境变量中指定路径
+直接从[GITHUB](https://github.com/wangchulab/CIMAGE2)克隆或下载即可，需要在环境变量中指定路径
 
 ```
 export CIMAGE_PATH=your_folder
